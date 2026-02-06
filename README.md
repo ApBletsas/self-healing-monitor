@@ -61,3 +61,9 @@ crontab -e
 # add:
 */5 * * * * /full/path/to/venv/bin/python /full/path/to/monitor.py
 ```
+
+--
+
+## License 
+
+This project is licensed under the MIT License
